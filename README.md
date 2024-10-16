@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-# Ryan Ma
+** Ryan Ma **
+
+** Major: Computer Science **
+
+** Graduation Year: 2028 **
 
 <!--
 **RyanMa9/RyanMa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
